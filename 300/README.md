@@ -44,7 +44,7 @@ And follow the prompts. Hitting the enter key for all prompts is fine for now if
 └── package.json
 ```
 
-## 300 - Setup an node module like Metalsmith
+## 300 - Setup a node module like Metalsmith
 
 From the root of our project run the command:
 
